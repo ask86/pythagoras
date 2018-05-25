@@ -1,0 +1,2 @@
+# pythagoras
+implementing Pythagoras theorem
